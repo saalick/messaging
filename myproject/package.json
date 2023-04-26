@@ -1,0 +1,18 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "it is a webapp to send messages",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "saaalick"
+  },
+  "keywords": [
+    "messages"
+  ],
+  "author": "salik",
+  "license": "UNLICENSED"
+}
